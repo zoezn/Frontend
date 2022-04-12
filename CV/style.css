@@ -1,0 +1,38 @@
+*{
+    font-family:'Courier New', Courier, monospace
+}
+
+header{
+    background-color: #e5e5e5;
+    text-align: center;
+}
+header h1{
+    background-color: #777777;
+    color: #ffa5b0;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+}
+
+main{
+
+}
+
+
+
+
+
+footer{
+    background-color: #ffa5b0;
+    color: white ;
+    text-align: center;
+    
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.logo{
+    height: 250px;
+    width: 250px;
+}

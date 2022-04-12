@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#descuentos {
+  background-color: #d1891c;
+  padding: 2px;
+}
+
+.header {
+  background-color: #00669f;
+  padding: 20px;
+  color: white;
+}
+
+#cajaPadre {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  display: space-between;
+  padding:10px;
+  justify-content: space-between;  
+  flex-wrap: wrap;
+
+}
+
+.Heroes {
+    background-color: #F3F3F3;
+    width: 805px;
+    border-color: red;
+    margin: 20px;
+    height: auto;
+}
+
+.imgFondo{
+    width: 420px;
+border-radius: 20px;
+}
+
+.imgHeroe{
+    border-radius: 100%;
+}
